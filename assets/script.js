@@ -31,8 +31,6 @@ listTopics();
 console.log('Which topic should we study first?');
 selectTopic();
 
-const test = 'git command test';
-
 /*
 
 for (var x = 0; x < topics.length; x++) {
